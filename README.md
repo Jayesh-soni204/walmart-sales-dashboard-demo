@@ -55,3 +55,13 @@ After exporting the cleaned datasets from SQL, I connected them to Tableau to bu
 3. Import the `raw_dataset.csv` file into the newly created tables.
 4. Run the queries in the `analysis_queries.sql` file to view the data manipulation steps.
 5. Open the `Sales_Dashboard.twbx` file in Tableau Desktop to interact with the visualizations.
+
+### Local dashboard
+
+The project also includes a browser dashboard that reads `Updated Dataset Walmart Sales.csv` directly. From the repository folder, run:
+
+```bash
+python -m http.server 8000
+```
+
+Then open `http://localhost:8000/dashboard.html` in a browser.
