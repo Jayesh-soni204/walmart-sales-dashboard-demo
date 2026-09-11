@@ -65,3 +65,5 @@ python -m http.server 8000
 ```
 
 Then open `http://localhost:8000/dashboard.html` in a browser.
+
+# walmart-sales-dashboard-demo
