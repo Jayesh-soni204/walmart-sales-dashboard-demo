@@ -3,8 +3,6 @@
 ## 📝 Project Overview
 This project focuses on evaluating e-commerce sales performance and customer behavior. The goal of this analysis is to identify key sales trends, customer segmentation, and product performance using SQL for data extraction and cleaning, followed by Tableau for interactive data visualization. 
 
-**View the Live Interactive Dashboard:** https://public.tableau.com/views/WalMartSalesDashboard/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
-
 ## 🎯 Business Problem & Objective
 The management team needed a way to track Key Performance Indicators (KPIs) regarding sales, profit, and customer retention. 
 
